@@ -1,1 +1,0 @@
-"C:\Users\walte\AppData\Local\Programs\Python\Python311\python.exe" "C:\Users\walte\Documents\GitHub\moisture_analyzer\moisture_plot.py"
